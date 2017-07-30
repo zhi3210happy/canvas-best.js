@@ -72,7 +72,7 @@ if(!class_exists('WP_Canvas_Best_Settings')) {     //判断是否存在WP_Canvas
                 //     $setting_color = $this->hex2rgb($setting_color);
                 //     $setting_color = join(',', $setting_color);
                 // }                                                          //输出带有属性值的script标签。
-                echo "<script type='text/javascript'  speed='$setting_speed' range='$setting_range' lineAlpha='$setting_lineAlpha' color='$setting_color' zIndex='$setting_zindex' opacity='$setting_opacity' count='$setting_count' src='/wp-content/plugins/canvas-best/canvas-best.min.js'></script>";
+                echo "<script type='text/javascript'  speed='$setting_speed' range='$setting_range' lineAlpha='$setting_lineAlpha' color='$setting_color' zIndex='$setting_zindex' opacity='$setting_opacity' count='$setting_count' src='/wp-content/plugins/canvas-best/canvas-best.js'></script>";
             }       
         }
         /**
@@ -266,7 +266,7 @@ if(!class_exists('WP_Canvas_Best_Settings')) {     //判断是否存在WP_Canvas
         }
 
         public function settings_section_WP_Canvas_Best() {
-            echo '这些配置是设置<a target="_blank" href="https://github.com/aTool-org/canvas-best-for-wp">Canvas-Best.js</a>. 需要帮助? <a target="_blank" href="http://www.atool.org/">点这里</a>.';
+            echo '这些配置是设置<a target="_blank" >Canvas-Best.js</a>. 需要帮助? <a target="_blank" href="https://github.com/zhi3210happy/canvas-best.js">点这里</a>.';
         }
 
         public function settings_field_checkbox($args) {  //多选框函数

@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Canvas-Best.js
-Plugin URI: https://github.com/zhi3210happy/canvas-best-for-wp
+Plugin URI: https://github.com/zhi3210happy/canvas-best.js
 Description: [正版]A wordpress plugin for canvas-best.js | 一个很炫酷网页背景效果（canvas-best.js）的wordpress插件。
 Version: 1.0.1
 Author: Even

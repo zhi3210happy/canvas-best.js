@@ -1,7 +1,7 @@
 # canvas-best-for-wp
 A wordpress plugin of [canvas-best.js](https://github.com/zhi3210happy/canvas-best.js). 
 
-Online Demo: [http://www.atool.org/](http://www.atool.org/)
+Online Demo: [http://www.5iweb.com.cn/resource/5iweb2017070903/index.html](http://www.5iweb.com.cn/resource/5iweb2017070903/index.html)
 
 
 ## How to use?
